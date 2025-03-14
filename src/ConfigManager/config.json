@@ -1,0 +1,17 @@
+{
+    "WEBHOOK_URL": "https://127.0.0.1:5555",
+    "scan_interval": 10.0,
+    "proxy": [
+        "http://CFYDkCagsC_0:xQdH35c6Tmmm@s-21923.sp5.ovh:11001",
+        "http://CFYDkCagsC_1:xQdH35c6Tmmm@s-21923.sp5.ovh:11002",
+        "http://CFYDkCagsC_2:xQdH35c6Tmmm@s-21923.sp5.ovh:11003",
+        "http://CFYDkCagsC_3:xQdH35c6Tmmm@s-21923.sp5.ovh:11004",
+        "http://CFYDkCagsC_4:xQdH35c6Tmmm@s-21923.sp5.ovh:11005",
+        "http://CFYDkCagsC_5:xQdH35c6Tmmm@s-21923.sp5.ovh:11006",
+        "http://CFYDkCagsC_6:xQdH35c6Tmmm@s-21923.sp5.ovh:11007",
+        "http://CFYDkCagsC_7:xQdH35c6Tmmm@s-21923.sp5.ovh:11008",
+        "http://CFYDkCagsC_8:xQdH35c6Tmmm@s-21923.sp5.ovh:11009",
+        "http://CFYDkCagsC_9:xQdH35c6Tmmm@s-21923.sp5.ovh:11010"
+    ],
+    "Log_Details": 1
+}

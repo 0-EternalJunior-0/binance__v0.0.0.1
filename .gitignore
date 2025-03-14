@@ -1,0 +1,36 @@
+venv/
+.venv/
+env/
+.env
+.python-env/
+
+# Файли конфігурації середовища
+.env
+
+# Кеші Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Логи та бази даних
+*.log
+*.sqlite3
+
+# IDE та редактори
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Тимчасові файли
+*.swp
+
+# Архіви
+*.tar
+
+# Docker
+docker-compose.override.yml
+Dockerfile.prod
+.dockerignore
+**/.docker/
